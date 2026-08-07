@@ -23,5 +23,5 @@ Organizations today operate through multiple departments, systems, and workflows
 
 ---
 
-# Product Vision - explains how the world looks like when our product exists in the world
+# Product Vision - explains the future you're trying to create
 >**A Future where every business decision has context.**
