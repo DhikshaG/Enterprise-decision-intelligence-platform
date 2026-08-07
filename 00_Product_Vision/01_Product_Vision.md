@@ -13,7 +13,7 @@
 
 ---
 
-# Product DNA
+# Product DNA - explains why we exist 
 
 > **Connect organizational dependencies.**
 
