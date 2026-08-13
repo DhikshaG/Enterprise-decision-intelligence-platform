@@ -25,3 +25,7 @@ Organizations today operate through multiple departments, systems, and workflows
 
 # Product Vision - explains the future you're trying to create
 >**A Future where every business decision has context.**
+---
+## Product Mission - what we do everyday to make the vision possible 
+# what we do ,what we connect and its outcomes
+>**Turn fragmented organizational information into connected, actionable business context.**
