@@ -182,20 +182,20 @@ Research should enable us to establish:
 
 ---
 
-## 11. Expected Output
+## 11. Research Deliverables
 
-**Primary Evidence**
-↓
-**Validated / Rejected Hypotheses**
-↓
-**Key Insights**
-↓
-**Pain-Point Prioritization**
-↓
-**User Segmentation**
-↓
-**Jobs-to-be-Done**
-↓
-**Refined Problem Statement**
-↓
+**Primary Evidence**  
+↓  
+**Validated / Rejected Hypotheses**  
+↓  
+**Key Insights**  
+↓  
+**Pain-Point Prioritization**  
+↓  
+**User Segmentation**  
+↓  
+**Jobs-to-be-Done**  
+↓  
+**Refined Problem Statement**  
+↓  
 **MVP Opportunity**
