@@ -3,6 +3,8 @@
 Preview of why this is required: User research is like asking the people who use the product what problems they actually face, instead of guessing.
 It helps us find the real problem before we decide what to build.
 
+This is required even though we have created the problem statement. The Problem statement is our best guess, but this step helps us understand better what really user wants before building a solution - so the solution becomes aligned to the user needs rather than building that on our assumptions
+
 ---
 
 ## 1. Objective
