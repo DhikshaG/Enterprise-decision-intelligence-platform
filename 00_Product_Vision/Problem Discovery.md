@@ -4,9 +4,9 @@
 
 ## Market Context
 
-Products like Celonis already address enterprise process intelligence. Enterprise decision intelligence platform is a focused demonstration of how I would approach the problem from a decision-context perspective.
+# Products like Celonis already address enterprise process intelligence. Enterprise decision intelligence platform is a focused demonstration of how I would approach the problem from a decision-context perspective.
 
-We know companies like Celonis already solve a big part of this problem. We are not pretending we invented a completely new solution. Instead, Project Nexus is our small product demonstration showing how we, as Product Analysts, would approach the problem from the perspective of helping a decision-maker understand the situation
+# _We know companies like Celonis already solve a big part of this problem. We are not pretending we invented a completely new solution. Instead, Project Nexus is our small product demonstration showing how we, as Product Analysts, would approach the problem from the perspective of helping a decision-maker understand the situation_
 
 ---
 
