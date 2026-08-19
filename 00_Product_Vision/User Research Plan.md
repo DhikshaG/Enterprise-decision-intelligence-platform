@@ -1,5 +1,8 @@
 # User Research Plan
 
+Preview of why this is required: User research is like asking the people who use the product what problems they actually face, instead of guessing.
+It helps us find the real problem before we decide what to build.
+
 ---
 
 ## 1. Objective
