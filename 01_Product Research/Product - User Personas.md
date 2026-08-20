@@ -19,10 +19,17 @@ What does Priya need from our product?
 So we document:
 
 Role: Operations Manager
+
 Key responsibility: Make cross-department operational decisions
+
 Typical decision: Why did production fall?
+
 Current problem: Information is scattered across departments
+
 Pain: Takes time to connect the information
+
 Need: Understand cause, dependencies, ownership and impact quickly
+
 Goal: Make faster, informed decisions
+
 Success: Resolve issues and prevent recurrence
