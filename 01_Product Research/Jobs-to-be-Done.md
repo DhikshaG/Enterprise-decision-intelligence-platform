@@ -36,7 +36,7 @@
 
 **Connect → Explain → Enable Decision**
 
-> Project Nexus should help users move from **what happened** to **why it happened, who is involved, what is affected, and what to do next.**
+> Enterprise Decision Intelligence Platform should help users move from **what happened** to **why it happened, who is involved, what is affected, and what to do next.**
 
 ---
 
