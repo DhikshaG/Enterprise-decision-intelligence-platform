@@ -1,109 +1,179 @@
 ### Product Personas
 
-> Understand who we build for, what they need, and why.
+> **Purpose:** Understand who we build for, what they need, and why.
 
 ---
 
-## Persona Overview
+### Persona Research Approach
 
-| Persona | Primary Responsibility | Product Relevance | Evidence Status |
-|---|---|---|---|
-| Plant Head | Overall plant operations | High | 🟡 Preliminary |
-| Technical Head | — | — | ⚪ To Research |
-| Quality Head | — | — | ⚪ To Research |
-| Production Head | — | — | ⚪ To Research |
-| Engineering Head | — | — | ⚪ To Research |
-| Mechanical Head | — | — | ⚪ To Research |
-| Electrical Head | — | — | ⚪ To Research |
+**Observation → Pattern → Persona Hypothesis → Product Implication**
 
-> **Note:** Personas will be validated using direct observations, user conversations, and research. Assumptions will not be treated as facts.
+> Personas are based on professional observation, publicly available information, and product analysis. No confidential company data or direct user interviews are used.
 
 ---
 
-# 01 — Plant Head
+## Persona Landscape
 
-> **Potential Primary Persona**
-
-### 🎯 Role
-
-**Overall owner of plant operations and performance.**
-
----
-
-### 🏢 Owns
-
-- Overall plant operations
-- Plant production performance
-- Coordination across functional heads
-- Major operational issues
+| Role | Core Responsibility | Relevance |
+|---|---|---|
+| Plant Head | Overall plant performance | **High** |
+| Technical Head | Technical direction | To assess |
+| Production Head | Production performance | To assess |
+| Quality Head | Quality performance | To assess |
+| Engineering Head | Engineering operations | To assess |
+| Mechanical Head | Mechanical reliability | To assess |
+| Electrical Head | Electrical reliability | To assess |
 
 ---
 
-### 🔎 Information Needed
+# 01 · Plant Head
 
-- Overall plant functioning
-- Department-wise activities and logs
-- Breakdown details
-- Root cause of breakdowns
-- Recurrence of similar issues
-- Cross-functional context
+> ### **PLANT HEAD**
+> **Overall plant performance & cross-functional coordination**
 
----
+| **Dimension** | **Observation** |
+|---|---|
+| **Owns** | Overall plant operations and production performance |
+| **Decides** | Plant-level operational, maintenance and production matters |
+| **Needs** | Plant-wide performance, department activity, breakdown reasons and recurrence |
+| **Depends on** | Production · Quality · Technical · Engineering · Mechanical · Electrical |
+| **When issues occur** | Goes to the shop floor and coordinates with relevant functional heads |
+| **Desired outcome** | Efficient plant functioning and sustained production performance |
 
-### 🔗 Dependencies
+**Product Relevance — HIGH**
 
-The Plant Head works closely with:
+> **Hypothesis:** A unified view of cross-functional context could help the Plant Head understand operational issues faster and make better-informed decisions.
 
-`Production → Quality → Engineering → Mechanical → Electrical → Technical`
-
----
-
-### ⚡ When Something Goes Wrong
-
-**Issue occurs**  
-↓  
-**Checks the shop floor**  
-↓  
-**Coordinates with relevant functional heads**  
-↓  
-**Understands the situation**  
-↓  
-**Decides / escalates next action**
+**Evidence:** 🟡 Observation-based
 
 ---
 
-### 🎯 Desired Outcome
+# 02 · Technical Head
 
-> **Keep the plant functioning efficiently while maintaining production performance.**
+> ### **TECHNICAL HEAD**
+> **Technical direction & coordination**
 
----
+| **Dimension** | **Observation** |
+|---|---|
+| **Owns** | *To establish* |
+| **Decides** | *To establish* |
+| **Needs** | *To establish* |
+| **Depends on** | *To establish* |
+| **When issues occur** | *To establish* |
+| **Desired outcome** | *To establish* |
 
-### 💡 Product Relevance
+**Product Relevance — TO ASSESS**
 
-The Plant Head is potentially a **primary user** because the role requires visibility across multiple functions.
-
-> **Hypothesis:** Better cross-functional context could help the Plant Head understand issues faster and make more informed plant-level decisions.
-
----
-
-### 🧪 Evidence Status
-
-**🟡 Preliminary — Based on direct observation**
-
----
-
-### ❓ What We Need to Validate
-
-- What decisions require the most cross-functional information?
-- What information takes the longest to obtain?
-- How is accountability determined today?
-- How is recurring breakdown information tracked?
-- How is wider business impact understood?
+**Evidence:** ⚪ To establish
 
 ---
 
-### 📌 Research Note
+# 03 · Production Head
 
-> Current understanding is based on direct observation at the client location. Areas marked for validation will be confirmed through user research before being treated as established persona characteristics.
+> ### **PRODUCTION HEAD**
+> **Production performance & output**
+
+| **Dimension** | **Observation** |
+|---|---|
+| **Owns** | *To establish* |
+| **Decides** | *To establish* |
+| **Needs** | *To establish* |
+| **Depends on** | *To establish* |
+| **When issues occur** | *To establish* |
+| **Desired outcome** | *To establish* |
+
+**Product Relevance — TO ASSESS**
+
+**Evidence:** ⚪ To establish
 
 ---
+
+# 04 · Quality Head
+
+> ### **QUALITY HEAD**
+> **Quality performance & compliance**
+
+| **Dimension** | **Observation** |
+|---|---|
+| **Owns** | *To establish* |
+| **Decides** | *To establish* |
+| **Needs** | *To establish* |
+| **Depends on** | *To establish* |
+| **When issues occur** | *To establish* |
+| **Desired outcome** | *To establish* |
+
+**Product Relevance — TO ASSESS**
+
+**Evidence:** ⚪ To establish
+
+---
+
+# 05 · Engineering Head
+
+> ### **ENGINEERING HEAD**
+> **Engineering operations & reliability**
+
+| **Dimension** | **Observation** |
+|---|---|
+| **Owns** | *To establish* |
+| **Decides** | *To establish* |
+| **Needs** | *To establish* |
+| **Depends on** | *To establish* |
+| **When issues occur** | *To establish* |
+| **Desired outcome** | *To establish* |
+
+**Product Relevance — TO ASSESS**
+
+**Evidence:** ⚪ To establish
+
+---
+
+# 06 · Mechanical Head
+
+> ### **MECHANICAL HEAD**
+> **Mechanical reliability & maintenance**
+
+| **Dimension** | **Observation** |
+|---|---|
+| **Owns** | *To establish* |
+| **Decides** | *To establish* |
+| **Needs** | *To establish* |
+| **Depends on** | *To establish* |
+| **When issues occur** | *To establish* |
+| **Desired outcome** | *To establish* |
+
+**Product Relevance — TO ASSESS**
+
+**Evidence:** ⚪ To establish
+
+---
+
+# 07 · Electrical Head
+
+> ### **ELECTRICAL HEAD**
+> **Electrical reliability & maintenance**
+
+| **Dimension** | **Observation** |
+|---|---|
+| **Owns** | *To establish* |
+| **Decides** | *To establish* |
+| **Needs** | *To establish* |
+| **Depends on** | *To establish* |
+| **When issues occur** | *To establish* |
+| **Desired outcome** | *To establish* |
+
+**Product Relevance — TO ASSESS**
+
+**Evidence:** ⚪ To establish
+
+---
+
+## Persona Prioritization
+
+After documenting all roles, we will evaluate them against:
+
+**Problem Exposure · Decision Influence · Cross-Functional Dependency · Business Impact · Product Relevance**
+
+→ **Primary Persona**  
+→ **Secondary Personas**  
+→ **Supporting Users**
