@@ -60,7 +60,7 @@ This creates four consequential gaps:
 
 ## Product Implication
 
-> **Project Nexus should connect the relevant organizational context around a business event and make it actionable for the decision-maker.**
+> **Enterprise Decision Intelligence Platform should connect the relevant organizational context around a business event and make it actionable for the decision-maker.**
 
 ---
 
