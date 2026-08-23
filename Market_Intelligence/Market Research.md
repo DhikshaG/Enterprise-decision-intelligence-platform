@@ -6,7 +6,7 @@
 
 ## Executive Takeaway
 
-> **Enterprise process-intelligence platforms already connect operational data to root causes, dependencies, impact and recommendations. Project Nexus should therefore focus on the decision context built around that intelligence — not recreate the intelligence layer.**
+> **Enterprise process-intelligence platforms already connect operational data to root causes, dependencies, impact and recommendations. Our Project should therefore focus on the decision context built around that intelligence — not recreate the intelligence layer.**
 
 ---
 
