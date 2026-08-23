@@ -1,6 +1,6 @@
 ### Market Intelligence
 
-> **Understand the market, establish the competitive baseline, and identify where Project Nexus should focus.**
+> **Understand the market, establish the competitive baseline, and identify where Emterprise Decision Intelligence Platform should focus.**
 
 ---
 
