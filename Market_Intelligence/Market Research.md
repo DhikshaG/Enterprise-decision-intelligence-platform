@@ -59,10 +59,11 @@
 
 ---
 
-### Research outcome : 
+### Research Result - Core Outcome: 
 
 ***If the decision maker has 5 minutes to make an important decision, how should all that information be brought together so the doctor can understand the situation and decide - our decision making lens***
 ### Research Status
+---
 
 **Initial Market Assessment**
 
