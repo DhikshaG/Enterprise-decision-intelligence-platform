@@ -55,7 +55,7 @@
 
 > **A focused decision-context experience built around cross-functional business events.**
 >
-> ** identified an enterprise problem, researched how existing products solve it, understood their capabilities, and designed my own focused product experience around the decision-maker
+> **identified an enterprise problem, researched how existing products solve it, understood their capabilities, and designed my own focused product experience around the decision-maker.**
 
 ---
 
