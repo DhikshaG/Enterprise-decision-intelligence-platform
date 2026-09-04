@@ -1,8 +1,8 @@
 # User Journey Map — Enterprise Decision Intelligence Platform
 
 > **Map the Plant Head's journey from identifying a critical operational event to making an informed decision and initiating follow-up action.**
-> **The User Journey Map should answer one question.**
-> **How does the user move from a critical event to an informed decision, and where does the product need to improve that journey?**
+> **The User Journey Map should answer one question -**
+> **How does the user move from a critical event to an informed decision, and where does the product need to improve that journey**
 
 ---
 
