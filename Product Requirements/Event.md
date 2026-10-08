@@ -6,7 +6,7 @@
 
 Enable users to **find relevant events, understand what happened, and determine where deeper investigation is required.**
 
-![Enterprise Decision Intelligence](./Events.png)
+![Enterprise Decision Intelligence Platform — Event](./Event.png)
 
 ## Core Experience
 
