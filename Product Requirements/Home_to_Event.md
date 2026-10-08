@@ -39,5 +39,5 @@ Every clickable element carries its **context into Events**, so the user does no
 → **Action**
 
 ## Visual
+![Enterprise Decision Intelligence Platform — Home](./Home_to_Event.png)
 
-![Enterprise decision intelligence platform - Home to Event](./Home_to_Events.png)
