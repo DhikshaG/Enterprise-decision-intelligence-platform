@@ -40,4 +40,4 @@ Every clickable element carries its **context into Events**, so the user does no
 
 ## Visual
 
-[Home → Events — Clickable Navigation](./Home_to_Events.png)
+![Enterprise decision intelligence platform - Home to Event](./Home_to_Events.png)
